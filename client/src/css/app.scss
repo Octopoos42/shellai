@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=JetBrains+Mono:wght@400;600&display=swap');
+
+html,
+body,
+#q-app {
+	font-family: 'Space Grotesk', sans-serif;
+	color: #d8f0ff;
+}
+
+* {
+	scrollbar-color: rgba(98, 215, 255, 0.55) rgba(4, 12, 22, 0.85);
+}
+
+.q-field--outlined .q-field__control:before {
+	border-color: rgba(95, 188, 255, 0.45);
+}
+
+.q-field--outlined.q-field--focused .q-field__control:before {
+	border-color: #39c6ff;
+}
+
+.q-field .q-field__native,
+.q-field .q-field__input {
+	color: #eaf7ff !important;
+	caret-color: #66d9ff;
+}
+
+.q-field .q-field__label,
+.q-field .q-placeholder {
+	color: rgba(193, 230, 255, 0.72) !important;
+}
+
+.q-field.q-field--focused .q-field__label {
+	color: #8fe5ff !important;
+}
+
+.shellai-select-menu .q-item,
+.shellai-select-menu .q-item__label,
+.shellai-select-menu .q-item__section {
+	color: #000000 !important;
+}
+
+.shellai-select-menu .q-item--active,
+.shellai-select-menu .q-item--active .q-item__label {
+	color: #000000 !important;
+}
+
+.shellai-prompt-box .q-field__control {
+	min-height: 220px;
+}
+
+.shellai-prompt-box .q-field__native {
+	min-height: 180px;
+}

@@ -1,0 +1,35 @@
+server:
+  port: 8080
+
+# Name of the LLM to use when the client does not specify one.
+default_model: deepseek
+
+llm:
+  - name: claude
+    endpoint: https://api.anthropic.com/v1/messages
+    model: claude-sonnet-4-6
+    envkey: CLAUDE_MODEL_API_KEY
+    context_k: 128
+    limit_k: 96
+
+  # OpenAI and compatible services use the Chat Completions endpoint.
+  - name: openai
+    endpoint: https://api.openai.com/v1/chat/completions
+    model: gpt-4o
+    envkey: OPENAI_API_KEY
+    context_k: 128
+    limit_k: 96
+
+  - name: deepseek
+    endpoint: https://api.deepseek.com/chat/completions
+    model: deepseek-chat
+    envkey: DEEPSEEK_API_KEY
+    context_k: 128
+    limit_k: 96
+
+# Agent loop settings.
+agent:
+  # Maximum number of planner→tool cycles before giving up (default: 10).
+  max_iterations: 10
+  # Seconds the agent waits for the user to approve/reject a tool call (default: 300).
+  tool_confirm_timeout_secs: 300

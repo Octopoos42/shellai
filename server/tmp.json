@@ -1,0 +1,182 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "mwtEsFzpxNbKnmArEsVnldWSzsQ",
+  "nextPageToken": "CAUQAA",
+  "regionCode": "SG",
+  "pageInfo": {
+    "totalResults": 478703,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2EhyjMTW3w8sEjl2HS0skQhMZ4I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2d3XcT79HjA"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-27T12:00:06Z",
+        "channelId": "UCiS882YPwZt1NfaM0gR0D9Q",
+        "title": "Genshin Impact Version &quot;Luna VI&quot; Special Program #GenshinImpact #SpecialProgram",
+        "description": "Dear Traveler, This special program will feature juicy details about new game content and developments in Version \"Luna VI.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2d3XcT79HjA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2d3XcT79HjA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2d3XcT79HjA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Genshin Impact",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-27T12:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "TBjDdcwD27cU9RtPgWqda8W8Iow",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ro3e7MynMEk"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-27T16:04:49Z",
+        "channelId": "UC8BTtymnCZ7jTvt09cjPMwQ",
+        "title": "Genshin 6.5 Recap: The Great, The Weird, The Unfair... | Genshin Impact Luna VI",
+        "description": "This Genshin Impact 6.5 or as Hoyo calls it Luna 6 version update comes with some surprising changes! In this video, I give a brief ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ro3e7MynMEk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ro3e7MynMEk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ro3e7MynMEk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Gacha Gamer",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-27T16:04:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8PnhQUBmq2exWbXrRL40oE6RvBg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mVWLSzkpGzA"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-28T04:00:38Z",
+        "channelId": "UCiS882YPwZt1NfaM0gR0D9Q",
+        "title": "Version &quot;Luna VI&quot; &quot;Augured Homecoming&quot; Trailer | Genshin Impact #GenshinImpact #Linnea",
+        "description": "Version \"Song of the Welkin Moon: Rondo\" \"Augured Homecoming\" Trailer | Genshin Impact From the moment we open our eyes, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mVWLSzkpGzA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mVWLSzkpGzA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mVWLSzkpGzA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Genshin Impact",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-28T04:00:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NbU5S4VbAgo9yWG7VVRLB09k7jQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_yuHIzPJGHA"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-02T06:00:37Z",
+        "channelId": "UCiS882YPwZt1NfaM0gR0D9Q",
+        "title": "Version &quot;Luna IV&quot; &quot;A Traveler on a Winter&#39;s Night&quot; Trailer | Genshin Impact #NewVersion #Columbina",
+        "description": "Version \"Song of the Welkin Moon: Postlude\" \"A Traveler on a Winter's Night\" Trailer | Genshin Impact O pale moonlight, why do ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_yuHIzPJGHA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_yuHIzPJGHA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_yuHIzPJGHA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Genshin Impact",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-02T06:00:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RjKljUk5cU5lKCzKLF0Aai94ZAY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KPIVs48syWU"
+      },
+      "snippet": {
+        "publishedAt": "2026-02-13T12:00:06Z",
+        "channelId": "UCiS882YPwZt1NfaM0gR0D9Q",
+        "title": "Genshin Impact Version &quot;Luna V&quot; Special Program #GenshinImpact #SpecialProgram",
+        "description": "Dear Traveler, This special program will feature juicy details about new game content and developments in Version \"Luna V.\" It ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KPIVs48syWU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KPIVs48syWU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KPIVs48syWU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Genshin Impact",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-02-13T12:00:06Z"
+      }
+    }
+  ]
+}
